@@ -1,0 +1,15 @@
+{
+    "name": "mempool",
+    "version": "1.0.0",
+    "main": "index.js",
+    "author": "Shaun McDonogh",
+    "license": "MIT",
+    "scripts": {
+      "start": "node main.js"
+    },
+    "dependencies": {
+      "dotenv": "^16.0.3",
+      "ethers": "^5.7.2"
+    }
+  }
+  
